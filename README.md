@@ -2,7 +2,8 @@
 
 ## Proje Açıklaması
 
-**NetWithElasticsearch** projesi, ASP.NET Core ve Elasticsearch'ü bir araya getirerek veritabanı üzerinde tutulan kayıtların Elasticsearch ile senkronize edilmesini ve hızlı bir şekilde aranmasını sağlar. Bu proje, aynı zamanda Entity Framework Core kullanarak veritabanına erişim sağlar ve çeşitli senaryolarda verileri indeksleyip arayarak performansı artırır. Postman üzerinden 2 senaryonun sonucunu daha net anlayabilirsiniz.
+**NetWithElasticsearch** projesi, ASP.NET Core ile veritabanı verilerini Elasticsearch üzerine senkronize eden ve bu verilerde hızlı arama yapabilen bir uygulamadır. Entity Framework Core ile veritabanı işlemlerini yönetir ve büyük veri kümeleri üzerinde arama performansını artırır. Postman aracılığıyla test edebileceğiniz senaryolarla, verilerin indekslenmesini ve arama işlemlerini daha net anlayabilirsiniz.
+
 
 ## Kurulum ve Çalıştırma
 
